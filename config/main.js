@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "native."; // Change this to change the name of your website.
-var subtext = "v1.2"; // set the subtext
+var sitename = "PeqGames"; // Change this to change the name of your website.
+var subtext = "v0.A"; // set the subtext
 
 // more settings in main.css
 
